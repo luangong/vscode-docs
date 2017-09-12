@@ -89,6 +89,3 @@ Publisher - [Joel Day](https://marketplace.visualstudio.com/search?term=publishe
 This extension will automatically generate detailed JSDoc comments for your code.
 
 ![document this](2016_10_31_document_this.gif)
-
-
-

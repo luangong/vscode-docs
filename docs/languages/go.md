@@ -114,4 +114,3 @@ If you'd like to learn more about VS Code, try these topics:
 * [Basic Editing](/docs/editor/codebasics.md) - A quick introduction to the basics of the VS Code editor.
 * [Install an Extension](/docs/editor/extension-gallery.md) - Learn about other extensions are available in the [Marketplace](https://marketplace.visualstudio.com/vscode).
 * [Code Navigation](/docs/editor/editingevolved.md) - Move quickly through your source code.
-

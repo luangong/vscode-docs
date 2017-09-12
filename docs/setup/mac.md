@@ -66,4 +66,3 @@ Run these commands:
 brew update
 brew reinstall mono
 ```
-

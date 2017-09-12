@@ -22,7 +22,7 @@ Our Chrome Debugger allows front-end developers to debug their client-side JavaS
 
 ## How does it work?
 
-Our debugger works by connecting to Chrome over its [Chrome Debugger protocol](https://developer.chrome.com/devtools/docs/debugger-protocol), where we map files loaded in the browser to the files open in Visual Studio Code. This means developers now can set breakpoints directly in their source code, set up variables to watch and see the full call stack when debugging — all without leaving the editor.
+Our debugger works by connecting to Chrome over its [Chrome Debugger protocol](https://developer.chrome.com/devtools/docs/debugger-protocol), where we map files loaded in the browser to the files open in Visual Studio Code. This means developers now can set breakpoints directly in their source code, set up variables to watch and see the full call stack when debugging � all without leaving the editor.
 
 In the above example, we are showing an [AngularJS](https://github.com/auchenberg/timey) app bundled and minified via [Browserify](http://browserify.org/) being debugged from VS Code. This works because our debugger understands [JavaScript Source Maps](https://www.html5rocks.com/en/tutorials/developertools/sourcemaps/), which we’ll use to enable developers to debug straight from their original source, and not the transpiled result that the browser sees. Supporting source maps also enables debugging of [TypeScript](https://www.typescriptlang.org/) straight from VS Code.
 

@@ -5,7 +5,7 @@ TOCTitle: vscode namespace API
 ContentId: 8CEBCDF8-4F0A-4C81-A904-3DEA43480EA6
 PageTitle: Visual Studio Code API Reference
 DateApproved: 9/7/2017
-MetaDescription: Visual Studio Code extensions (plug-ins) API Reference.  
+MetaDescription: Visual Studio Code extensions (plug-ins) API Reference.
 ---
 
 # vscode namespace API
@@ -10496,4 +10496,3 @@ the given <code>symbol</code> is used.</p>
 </table>
 </div>
 </div>
-

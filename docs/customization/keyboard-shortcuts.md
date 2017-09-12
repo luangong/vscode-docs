@@ -200,4 +200,3 @@ Key|Command
 `kb(workbench.action.terminal.scrolldownPage)`|Scroll page down
 `kb(workbench.action.terminal.scrollToTop)`|Scroll to top
 `kb(workbench.action.terminal.scrollToBottom)`|Scroll to bottom
-

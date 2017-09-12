@@ -952,26 +952,3 @@ export function activate(ctx: vscode.ExtensionContext): void {
 >**Advanced**
 >
 >You should always return the smallest possible text edits that result in the source code being formatted. This is crucial to ensure that markers such as diagnostic results are adjusted corrected and are not lost.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

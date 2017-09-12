@@ -9,4 +9,3 @@ DateApproved: 9/7/2017
 ---
 
 # Deploy a Node.js Application to Azure
-

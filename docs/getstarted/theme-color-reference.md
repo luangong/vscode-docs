@@ -429,4 +429,3 @@ Notifications slide in from the top of the workbench.
 - `welcomePage.buttonBackground`: Background color for the buttons on the Welcome page.
 - `welcomePage.buttonHoverBackground`: Hover background color for the buttons on the Welcome page.
 - `walkThrough.embeddedEditorBackground`: Background color for the embedded editors on the Interactive Playground.
-
